@@ -23,9 +23,6 @@
 #include "include/glm/gtx/transform2.hpp" // for glm::lookAt
 #include "include/GL/glew.h"
 #include "include/GLFW/glfw3.h"
-#include "include/assimp/Importer.hpp"	//OO version Header!
-#include "include/assimp/Scene.h"		// Output data structure
-#include "include/assimp/PostProcess.h"	// Post processing flag
 #include "include/FreeImage/FreeImage.h"
 
 #define MAX_NUM_LIGHTS 5
